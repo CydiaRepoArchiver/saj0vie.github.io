@@ -1,0 +1,28 @@
+Package: com.saj0vie.IOS6Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Saj0vie <jdsajovie@gmail.com>
+Filename: ./debs/com.saj0vie.ios6theme_1.0_iphoneos-arm.deb
+Size: 1143824
+MD5sum: e14571bb6315c79304040f9e96a9105d
+SHA1: 194e4635f5d7d8c5431c0a7c98f211c0b5ae10f2
+SHA256: 482be4dc4d0743cc2d3f7e1f9caa0e3356f30c05e9cca824b744c01603d14e26
+Section: Themes (Springboard)
+Description: IOS 6 stock icons for IOS 10 not tested on IOS 9, working on any retina screen device. This is only in beta, and more will be added (settings icons and possibly UI changes!)
+Author: Saj0vie <jdsajovie@gmail.com>
+Name: IOS 6 Theme
+
+Package: com.saj0vie.Solstice10
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: Saj0vie <jdsajovie@gmail.com>
+Filename: ./debs/com.saj0vie.solstice10_1.2.5_iphoneos-arm.deb
+Size: 2874804
+MD5sum: 9fda115fc4a9192a3069d8e80b167253
+SHA1: bf94339c891f1096af219b7fd1f3eff9e0f04c8a
+SHA256: 2e02c55d9029a2474abbecdf8080da683b5f499a9b1111b45808962d1affd234
+Section: Themes (Springboard)
+Description: The IOS 7 theme we all loved made compatible for IOS 10. All credit to the original developer. Update 1.2.5: FIX: New settings icons (not complete, but a majority are done) and some fixes on unthemed icons.
+Author: Saj0vie <jdsajovie@gmail.com>
+Name: Solstice 10
+
