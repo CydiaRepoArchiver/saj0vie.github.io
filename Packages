@@ -1,16 +1,19 @@
-Package: com.saj0vie.BootLogo
-Version: 1.0.1
+Package: com.iphonecake.AppCake2
+Version: 5.5.2.0
 Architecture: iphoneos-arm
-Maintainer: Saj0vie <jdsajovie@gmail.com>
-Filename: ./debs/com.saj0vie.bootlogo_1.0.1_iphoneos-arm.deb
-Size: 8332
-MD5sum: 39ade46c4fd717cdd5f12a69b19663bb
-SHA1: cc4f4ead0f6e66c660501e1fdcd5de5f3a5c02e6
-SHA256: 724cda5e4492a34de52f73ef4fbe4060029b4612b1ec3cc7a32733e32c0ddafd
-Section: Themes (Springboard)
-Description: Boot Logo test
-Author: Saj0vie <jdsajovie@gmail.com>
-Name: BootLogo
+Maintainer: AppCake <appcake-support@3skytech.com>
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate
+Filename: ./debs/com.iphonecake.appcake2_5.5.2.0_iphoneos-arm.deb
+Size: 17615000
+MD5sum: 75f9043d9113d449947645bba22e92c2
+SHA1: 8dc6d49e8601e1232e900994e05b18e1869c5b2c
+SHA256: 110230ea75e7a6b4481e5778865a053f27fb5fc588302f094654b707b0f17bed
+Section: Utilities
+Description: The new AppCake 5.5.1.9! Introducing Direct Download/Install!  Require AppSync to be installed ***
+Author: Mickael liang <appcake-support@3skytech.com>
+Name: AppCake
+Website: http://iphonecake.com/forum/
 
 Package: com.saj0vie.IOS6Theme
 Version: 1.1.5
@@ -18,9 +21,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.ios6theme_1.1.5_iphoneos-arm.deb
 Size: 2034464
-MD5sum: 311ff848267b251a8d1fba91cea29c16
-SHA1: e2be205eef116b54e93876d71e6b8e035984f6bd
-SHA256: 5e648ca902dd29c1b34b0baa70e8539ea8aec031bd96ae4aa6dfcf4bb4792175
+MD5sum: 4763af49044e4b0847a024c75ded068b
+SHA1: e5d9397d4d6b233de8a9b1b1a9589f76b2168278
+SHA256: 430f87b4bbd299c20fd95842183321f2e4a50f24f9153a0ba48c6831f5491ec1
 Section: Themes (Springboard)
 Description: IOS 6 stock icons for IOS 10 not tested on IOS 9, working on any retina screen device. This is only in beta, and more will be added (settings icons and possibly UI changes!) UPDATE 1.1: Icon masks so the icons look better.
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -32,9 +35,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.solstice10_1.2.5_iphoneos-arm.deb
 Size: 2874814
-MD5sum: e8049f600c658676a45bb74078907675
-SHA1: 1f5da041f1a99da3c3d2aac995e3a4a6ab877a3d
-SHA256: 9a8cfa5da7a0abbb7dc15a28a4b9861325f481f09d324216fb830329df7447ac
+MD5sum: bb256701bddd0275bbea014c40c55e35
+SHA1: 68859a3aaabcee0742953241e2ada253200dddf1
+SHA256: 6ae2c51109838f64c5e10ba35c7ede622f994ca375f785690c6a71060b0186d8
 Section: Themes (Springboard)
 Description: The IOS 7 theme we all loved made compatible for IOS 10. All credit to the original developer. Update 1.2.5: FIX: New settings icons (not complete, but a majority are done) and some fixes on unthemed icons.
 Author: Saj0vie <jdsajovie@gmail.com>

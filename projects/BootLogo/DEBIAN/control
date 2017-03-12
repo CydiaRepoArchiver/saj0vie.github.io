@@ -1,8 +1,0 @@
-Package: com.saj0vie.BootLogo
-Name: BootLogo
-Version: 1.0.1
-Architecture: iphoneos-arm
-Description: Boot Logo test
-Maintainer: Saj0vie <jdsajovie@gmail.com>
-Author: Saj0vie <jdsajovie@gmail.com>
-Section: Themes (Springboard)
