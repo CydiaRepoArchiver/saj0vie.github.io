@@ -1,12 +1,12 @@
 Package: com.saj0vie.BootLogo
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
-Filename: ./debs/com.saj0vie.bootlogo_1.0_iphoneos-arm.deb
-Size: 8154
-MD5sum: 9fbc0b1ed3715b0812aa63f837b81455
-SHA1: a51799f8a7fe3b93ebc0165255806361e0607a5d
-SHA256: c4d866c30ab25640b8034cd56159a17c0a9b822f7511b9c5584b3a75aa4b534e
+Filename: ./debs/com.saj0vie.bootlogo_1.0.1_iphoneos-arm.deb
+Size: 8332
+MD5sum: 39ade46c4fd717cdd5f12a69b19663bb
+SHA1: cc4f4ead0f6e66c660501e1fdcd5de5f3a5c02e6
+SHA256: 724cda5e4492a34de52f73ef4fbe4060029b4612b1ec3cc7a32733e32c0ddafd
 Section: Themes (Springboard)
 Description: Boot Logo test
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.ios6theme_1.1.5_iphoneos-arm.deb
 Size: 2034464
-MD5sum: 17db11c9c28a8a4e1433c05de3b756b6
-SHA1: aa4daa93cfe75c2ff84e84f09073d30c809205f6
-SHA256: 51d14a252761d5153cde978f5fc5aaf87077d047a7070a049557584dda69c263
+MD5sum: 311ff848267b251a8d1fba91cea29c16
+SHA1: e2be205eef116b54e93876d71e6b8e035984f6bd
+SHA256: 5e648ca902dd29c1b34b0baa70e8539ea8aec031bd96ae4aa6dfcf4bb4792175
 Section: Themes (Springboard)
 Description: IOS 6 stock icons for IOS 10 not tested on IOS 9, working on any retina screen device. This is only in beta, and more will be added (settings icons and possibly UI changes!) UPDATE 1.1: Icon masks so the icons look better.
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -32,9 +32,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.solstice10_1.2.5_iphoneos-arm.deb
 Size: 2874814
-MD5sum: 751cb59f8fac63ba40fe21f1604ad5f0
-SHA1: e3d0f73d2e8b7d28067e26d2ae0281a437b27466
-SHA256: 1da1a3546a7ba565c45ca9f7ee8320d1591baed202ea472962d7217149b6fe31
+MD5sum: e8049f600c658676a45bb74078907675
+SHA1: 1f5da041f1a99da3c3d2aac995e3a4a6ab877a3d
+SHA256: 9a8cfa5da7a0abbb7dc15a28a4b9861325f481f09d324216fb830329df7447ac
 Section: Themes (Springboard)
 Description: The IOS 7 theme we all loved made compatible for IOS 10. All credit to the original developer. Update 1.2.5: FIX: New settings icons (not complete, but a majority are done) and some fixes on unthemed icons.
 Author: Saj0vie <jdsajovie@gmail.com>
