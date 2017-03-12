@@ -1,12 +1,26 @@
+Package: com.saj0vie.BootLogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Saj0vie <jdsajovie@gmail.com>
+Filename: ./debs/com.saj0vie.bootlogo_1.0_iphoneos-arm.deb
+Size: 8154
+MD5sum: 9fbc0b1ed3715b0812aa63f837b81455
+SHA1: a51799f8a7fe3b93ebc0165255806361e0607a5d
+SHA256: c4d866c30ab25640b8034cd56159a17c0a9b822f7511b9c5584b3a75aa4b534e
+Section: Themes (Springboard)
+Description: Boot Logo test
+Author: Saj0vie <jdsajovie@gmail.com>
+Name: BootLogo
+
 Package: com.saj0vie.IOS6Theme
 Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.ios6theme_1.1.5_iphoneos-arm.deb
 Size: 2034464
-MD5sum: ef3c7f10dd00f794a74935c0cf173341
-SHA1: 8d892879dfe1a52cb256257ee5282b24a007ee50
-SHA256: da0cb91de0161507d4581a61fdd21c4dded6735a9154da1e23e01f2883cf387b
+MD5sum: 17db11c9c28a8a4e1433c05de3b756b6
+SHA1: aa4daa93cfe75c2ff84e84f09073d30c809205f6
+SHA256: 51d14a252761d5153cde978f5fc5aaf87077d047a7070a049557584dda69c263
 Section: Themes (Springboard)
 Description: IOS 6 stock icons for IOS 10 not tested on IOS 9, working on any retina screen device. This is only in beta, and more will be added (settings icons and possibly UI changes!) UPDATE 1.1: Icon masks so the icons look better.
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -18,9 +32,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.solstice10_1.2.5_iphoneos-arm.deb
 Size: 2874814
-MD5sum: 865baa674f6c3d16beaa010e702f0728
-SHA1: 35280bd38635b9476f7b82d6c60c0c8987c62931
-SHA256: b04b1db977d2f9a821e975285ec14fe94371fff28d01930338c2b6c4b68fb571
+MD5sum: 751cb59f8fac63ba40fe21f1604ad5f0
+SHA1: e3d0f73d2e8b7d28067e26d2ae0281a437b27466
+SHA256: 1da1a3546a7ba565c45ca9f7ee8320d1591baed202ea472962d7217149b6fe31
 Section: Themes (Springboard)
 Description: The IOS 7 theme we all loved made compatible for IOS 10. All credit to the original developer. Update 1.2.5: FIX: New settings icons (not complete, but a majority are done) and some fixes on unthemed icons.
 Author: Saj0vie <jdsajovie@gmail.com>
