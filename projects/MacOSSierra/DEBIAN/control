@@ -1,0 +1,8 @@
+Package: com.saj0vie.MacOSSierra
+Name: Mac OS Sierra
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Mac OS Sierra Icons (Very few icons at the moment, just testing)
+Maintainer: Saj0vie <jdsajovie@gmail.com>
+Author: Saj0vie <jdsajovie@gmail.com>
+Section: Themes (Springboard)
