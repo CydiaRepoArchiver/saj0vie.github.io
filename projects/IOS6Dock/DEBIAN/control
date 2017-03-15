@@ -5,12 +5,9 @@ Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Version: 1.1-8
 Architecture: iphoneos-arm
 Description: IOS 6 dock brought back. IOS 7-10 Support. Requires Cydia Substrate and PreferenceLoader.
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classicdockDp
-Sponsor: thebigboss.org <http://thebigboss.org>
 Maintainer: Saj0vie Repo <jdsajovie@gmail.com>
 Author: CoolStar & sharedRoutine <coolstarorganization@gmail.com>
 dev: coolstar
 Section: Tweaks
-Tag: purpose::extension, ios7support::1, ios8support::1
 Installed-Size: 575
 Icon: file:///Library/PreferenceBundles/ClassicDockPrefs.bundle/classicdock@2x.png
