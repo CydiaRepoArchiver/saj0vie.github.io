@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.ios6theme_1.1.5_iphoneos-arm.deb
 Size: 2034456
-MD5sum: d9b74925152e41a291c7cbe010b54a73
-SHA1: 1d004d14ddde113b2faf35398f6fbddd4fc46a0c
-SHA256: 4be62848645eb7fe0153922f03f0831286d2188d079dd0b7da87f4b395b199b8
+MD5sum: ffa75e1b060f5e5036e57014ba071930
+SHA1: 7eac7027c02333499abccec153de0b53657e30d1
+SHA256: f7976bbcf410ced8b5f1709e5ff127e0400b24def54f8075063ff3f76a1db5a2
 Section: Themes (Springboard)
 Description: IOS 6 stock icons for IOS 10 not tested on IOS 9, working on any retina screen device. This is only in beta, and more will be added (settings icons and possibly UI changes!) UPDATE 1.1: Icon masks so the icons look better.
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.macossierra_1.0_iphoneos-arm.deb
 Size: 897838
-MD5sum: 49b7a6a5d5d39e9494288dd99f370d0c
-SHA1: 31774232f534a98cf54afd6bba49ba45afb37d4b
-SHA256: 029d8440fc8319a6a94a2994d6c8469c0082f7b15ea19882585bc1a80e3cff1f
+MD5sum: 6161be0769a6eb2e014631c7450742a6
+SHA1: c3f6adcd6af9aeb7f75dd1607295560955ce912e
+SHA256: fb756fd4695aefa7457962a43a486d9fb00ace13ed0551d40b6d5e4e71c19658
 Section: Themes (Springboard)
 Description: Mac OS Sierra Icons (Very few icons at the moment, just testing)
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -32,9 +32,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.solstice10_1.2.5_iphoneos-arm.deb
 Size: 2874812
-MD5sum: a6e22472804d664c961b9539b27cb769
-SHA1: df6a26615de584e4c50d4d385ba08b72dbfed442
-SHA256: 6f1dccd5202aa6eced8de43504a909e67660e1fcd312df10d7a51106ea334ab3
+MD5sum: e86d0545beed093a27955eb24f8f46db
+SHA1: be4a73f62bd528350e99f97a7b85cf4bf95b5cd6
+SHA256: 5e5cd74024bd60d013e69743e6549e745d029649052db2e8c551a45cd62be1a1
 Section: Themes (Springboard)
 Description: The IOS 7 theme we all loved made compatible for IOS 10. All credit to the original developer. Update 1.2.5: FIX: New settings icons (not complete, but a majority are done) and some fixes on unthemed icons.
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -46,9 +46,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.solstice10circular_1.0.1_iphoneos-arm.deb
 Size: 2927280
-MD5sum: 250fc9321dca5770f295b7cb157bc655
-SHA1: ed98087cc7254e41d3d93f228ef6e5a9bc0cd794
-SHA256: 90c25978a78a4fd818ec40c66364a6c5cd72913efaf68d64624933bf3b0737b7
+MD5sum: b60301aad85136e3f554f343e6eb8348
+SHA1: e036b6f24c32a5a73873df357d9c597ddb138d63
+SHA256: 975a3fbc55dccabc338f1b0e9f6962f95b47f45c5a4fcb900afd6749f6116b00
 Section: Themes (Springboard)
 Description: The IOS 7 theme we all loved made compatible for IOS 10. All credit to the original developer. (THIS IS THE CIRCULAR ICON VERSION)
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -57,17 +57,20 @@ Name: Solstice 10 Circular
 Package: org.coolstar.classicdock
 Version: 1.1-8
 Architecture: iphoneos-arm
-Maintainer: Saj0vie Repo <jdsajovie@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 575
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/org.coolstar.classicdock_1.1-8_iphoneos-arm.deb
-Size: 418578
-MD5sum: 5e62b42f4f43724dc53208c7023dd70b
-SHA1: c96de2d611d7f4581ce62c8d12d32d6ae23335aa
-SHA256: d1bc5004b1e03de5ae5916bf3570900361e2c9f6100d436003df215d1e57c142
-Section: Utilities
+Size: 418594
+MD5sum: f43bf87871cae89d9bf1c8eb8ccb0766
+SHA1: a72d1f5f0ddb3a2581bb1ab25ccd3e8845ff6b85
+SHA256: 81eb1f5f6cb1653bc7829cad5be63165c8aa35a4ce63129c45b46dfd45c06779
+Section: Tweaks
 Priority: optional
-Description: IOS 6 dock brought back. IOS 7-10 Support. Requires Cydia Substrate and PreferenceLoader.
+Description: Bring back iOS 6 dock to iOS 7/8
+Tag: purpose::extension, ios7support::1, ios8support::1
 Author: CoolStar & sharedRoutine <coolstarorganization@gmail.com>
 Dev: coolstar
 Name: ClassicDock
+Sponsor: thebigboss.org <http://thebigboss.org>
 
