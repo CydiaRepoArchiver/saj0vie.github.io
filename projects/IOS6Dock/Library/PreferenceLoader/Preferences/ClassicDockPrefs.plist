@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = ClassicDockPrefs;
+		cell = PSLinkCell;
+		detail = "ClassicDockPrefsListController";
+		icon = "classicdock.png";
+		isController = 1;
+		label = "Classic Dock";
+	};
+}
