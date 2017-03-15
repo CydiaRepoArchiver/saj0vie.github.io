@@ -8,6 +8,5 @@ Description: IOS 6 dock brought back. IOS 7-10 Support. Requires Cydia Substrate
 Maintainer: Saj0vie Repo <jdsajovie@gmail.com>
 Author: CoolStar & sharedRoutine <coolstarorganization@gmail.com>
 dev: coolstar
-Section: Tweaks
-Installed-Size: 575
-Icon: file:///Library/PreferenceBundles/ClassicDockPrefs.bundle/classicdock@2x.png
+Section: Utilities
+
