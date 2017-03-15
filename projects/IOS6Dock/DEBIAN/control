@@ -1,5 +1,5 @@
-Name: IOS6Dock
 Package: org.coolstar.classicdock
+Name: ClassicDock
 Priority: optional
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Version: 1.1-8
