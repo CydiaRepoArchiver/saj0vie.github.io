@@ -31,6 +31,6 @@
 		<integer>3</integer>
 	</dict>
 	<key>IB-MaskIcons</key>
-	<false/>
+	<true/>
 </dict>
 </plist>
