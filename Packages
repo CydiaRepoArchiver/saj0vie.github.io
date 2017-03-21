@@ -1,14 +1,14 @@
 Package: com.saj0vie.0bscure10Invert
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
-Filename: ./debs/com.saj0vie.0bscure10invert_1.0_iphoneos-arm.deb
-Size: 355088
-MD5sum: fd373cd6802e4eaf90da430d15aa54c7
-SHA1: b2516dbdf8c637c11f2f6a706b6c0a5a7550a2e7
-SHA256: e1cb975b67d12063ffbfd8c4efd6211f8804e97aa8b0cf03b25eb188b45e51c5
+Filename: ./debs/com.saj0vie.0bscure10invert_1.1_iphoneos-arm.deb
+Size: 1026390
+MD5sum: ed809ce85bf83fd6c1a3749c3bc28299
+SHA1: 172c8c0ff060ccd84618a6d9d616ccfb932231ef
+SHA256: 8b6817be44f9fa5180c13cb3b798a7603c642898f5a9803fbf6aa4f95eb38b0a
 Section: Themes (Springboard)
-Description: As requested, made compatible for IOS 10, currently only with stock icons, but more will be added over time. Watch for updates.
+Description: UPDATE 1.1: 76 new icons. As requested, made compatible for IOS 10, currently only with stock icons, but more will be added over time. Watch for updates.
 Author: Saj0vie <jdsajovie@gmail.com>
 Name: 0bscure10[Inverted]
 
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.ios6theme_1.2.3_iphoneos-arm.deb
 Size: 1998452
-MD5sum: 87bd2556aa5dad1419afb4946bed6938
-SHA1: 6bfe979ecab124d96dfb3a23145170ce2f0f1210
-SHA256: 822959509237d5ad763033aa29aff9f080a7dffa9240f814dd1c97f6344e6011
+MD5sum: 72407b9043c1f6872b12e4d49b70e0d2
+SHA1: edb6629c4d8db77cb46cb5a0c8b5fd9b2666e765
+SHA256: 47a50483d2914f12368b0a8eded45cb0adbb844a4835e58ce7880f38fb1c839f
 Section: Themes (Springboard)
 Description: IOS 6 stock icons for IOS 10 not tested on IOS 9, working on any retina screen device. To finish this off add ClassicDock, ClassicLabels, and StatusBarColor (color the status bar black to make it look like the IOS 6 status bar) from BigBoss and This is only in beta, and more will be added (settings icons and possibly UI changes!) UPDATE 1.2.3: 4 new icons (more to come)
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -32,9 +32,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.macossierra_1.0_iphoneos-arm.deb
 Size: 897838
-MD5sum: afe7484ae5c6f351e0eb09a5955e4473
-SHA1: 2ef96c7886f1ff596f721ff0954a7b593a3bf661
-SHA256: be95250a94e654d19e5b3a24ab6d64419827d05003396f12795de6708c1063c6
+MD5sum: 2285bf1420e1ea2b68ae39fea7abac81
+SHA1: 0853468d1c5d181e3615d087cc5ff8c9226b3633
+SHA256: edd78b04045f48bd909af95eec8156a7faee0f4c0d6540cefa3a6ef7e8ecf2b3
 Section: Themes (Springboard)
 Description: Mac OS Sierra Icons (Very few icons at the moment, just testing)
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -46,9 +46,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.solstice10_1.2.6_iphoneos-arm.deb
 Size: 2874824
-MD5sum: 9c09554f4940dd0e0e0595077d91bf57
-SHA1: 9b1c916c58e2978c7c1bd7c3bcae2123d2a1daf1
-SHA256: 965f23f986b142428c6c97bc55751e62fb83be6002e10f7cb45cc640f5470e2d
+MD5sum: ee94e33cd3e2cee3595a7cbfa4f4b720
+SHA1: 8b37129bf7d460c31a4394032b81e312c97bd2c6
+SHA256: 12d8bd99465dcf3f19fb6930233eb42145ed5cd3ecac7f398692e892ad6556bf
 Section: Themes (Springboard)
 Description: The IOS 7 theme we all loved made compatible for IOS 10. All credit to the original developer. Update 1.2.6: FIX: Fixing unthemed icons: Once I get more time, there will be new icons added!
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -60,9 +60,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.solstice10circular_1.0.1_iphoneos-arm.deb
 Size: 2927280
-MD5sum: 7a65b656c421b64eb813ddd6aa6242bb
-SHA1: 1697beed3f30f7b8c0e848af8479286279697562
-SHA256: 56cc874d997b80f9a8396d5b623f8810bb813a901fb5b082324fdd31e2373f79
+MD5sum: ace529ac7e0bed00271798a15770c5b5
+SHA1: a206cf4b825a098184052ed1973694f4e8d50d18
+SHA256: efcdc80a30b3ba92d41b3661d2ac2e51d2b6edc7bf4a9f45a2833626ab32d915
 Section: Themes (Springboard)
 Description: The IOS 7 theme we all loved made compatible for IOS 10. All credit to the original developer. (THIS IS THE CIRCULAR ICON VERSION)
 Author: Saj0vie <jdsajovie@gmail.com>
