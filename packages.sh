@@ -4,3 +4,4 @@ dpkg-deb -bZgzip projects/IOS6Theme debs
 dpkg-deb -bZgzip projects/Solstice10Circular debs
 dpkg-deb -bZgzip projects/MacOSSierra debs
 dpkg-deb -bZgzip projects/0bscure10 debs
+dpkg-deb -bZgzip projects/Stock+Simple debs
