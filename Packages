@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.ios6theme_1.2.6_iphoneos-arm.deb
 Size: 1998530
-MD5sum: b0c2d1d344194e8712258cbdab3738f5
-SHA1: fbfb53aa2aa132329922ff557d92bdd6f2232e6d
-SHA256: 69774ee9014b42446f1386575bad29e120c17877b8f803224ca77fd1c6e0888f
+MD5sum: c0751149db2145218963afcd221e3a0e
+SHA1: 7b3d2d0c89c1dbacc307aa0cfc33cfd247df2cf1
+SHA256: ea21130eff8c2cabd9db1b6764631abce910ce04f4bbbcc1ea575bf7c5289ddd
 Section: Themes (Springboard)
 Description: IOS 6 stock icons for IOS 10 not tested on IOS 9, working on any retina screen device. To finish this off add ClassicDock, ClassicLabels, and StatusBarColor (color the status bar black to make it look like the IOS 6 status bar) from BigBoss and This is only in beta, and more will be added (settings icons and possibly UI changes!) UPDATE 1.2.6: FIX: My attempt to fix the clock icon did not work, screwed up other icons. If you were on 1.2.4 which was released at 5:34, get onto this version (1.2.6)
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.macossierra_1.0.1_iphoneos-arm.deb
 Size: 1036984
-MD5sum: d6783f7db7a2b9c4eb49f7ac63bd56b7
-SHA1: 564613035f3da5e7c35752c3f7b7dfd18a914957
-SHA256: 8990cf18b1be244b30b02060393ec34c0dd3d9edc1b9067b397fa82a10ce04e5
+MD5sum: cf3a1af44673fcea6c51b42011048962
+SHA1: 904035e64c79d6ed84785e4ccb642baf4db36957
+SHA256: d7bce727b57f7d9b45218383a822f2191198d0d3c5508b00153b579e6ad6e490
 Section: Themes (Springboard)
 Description: Mac OS Sierra Icons (Very few icons at the moment, just testing)Update 1.0.1 a few more icons added. A work in progress!
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -32,9 +32,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.solstice10_1.2.7_iphoneos-arm.deb
 Size: 2891364
-MD5sum: c44f226800ba3278f27f5d051f8b5c6b
-SHA1: 9b98de82715b2744bd40334889804d34fd5b7adb
-SHA256: 979a62c91c15a32601bdd2f17f72a8779a889f9df67b60830f0930b543616da3
+MD5sum: 11794f8c6641976a22ef33665140c6e6
+SHA1: d1cd9422937c7d830338ed2010c7e4bd96e24937
+SHA256: a4814b7ab987bca0c799b5ca1cc21ffb1dfa94da29fabc3ffb52e05d80508c63
 Section: Themes (Springboard)
 Description: The IOS 7 theme we all loved made compatible for IOS 10. All credit to the original developer. Update 1.2.7: FIX: Fixing unthemed icons: Once I get more time, there will be new icons added!
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -46,23 +46,23 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.solstice10circular_1.0.1_iphoneos-arm.deb
 Size: 2927280
-MD5sum: 840d6f3b9905bea395ce206c40110970
-SHA1: a802a361c4e16619dd1a4120a78422dc87bf66c6
-SHA256: 6d9826d87fbb3249e367cc209b27d5a1820d223f7def1b17c54de6a624fe25ae
+MD5sum: 34040d5ef077b404c594930c7659b65f
+SHA1: 7f15717eed24002f13f72d8a4b5885261c645add
+SHA256: 0cad5e433c94cd93d0c51794c031fc4b93f6d8337f462e6a0cfc9f07dd8c7390
 Section: Themes (Springboard)
 Description: The IOS 7 theme we all loved made compatible for IOS 10. All credit to the original developer. (THIS IS THE CIRCULAR ICON VERSION)
 Author: Saj0vie <jdsajovie@gmail.com>
 Name: Solstice 10 Circular
 
 Package: com.saj0vie.StockPlusSimple
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
-Filename: ./debs/com.saj0vie.stockplussimple_1.0_iphoneos-arm.deb
-Size: 873310
-MD5sum: d14c2c4bb247ad41f613d6d09b1d38de
-SHA1: 7be6f9e33b7d7199210a68862632b43d6892d5e7
-SHA256: 8156f8cffd64385a1aa5a693a6dad611b80acaf88fbaa284895c20ad75c21ab4
+Filename: ./debs/com.saj0vie.stockplussimple_1.1_iphoneos-arm.deb
+Size: 873314
+MD5sum: d263d2ba2597f4b1926c0b0375b6a26f
+SHA1: 93d58d4f79224941d3804d3fa88e9081e3771012
+SHA256: b3a22b54c0af85f8ccfa93640e70287812ccdfa4dc29f41d52d2cdb78611de39
 Section: Themes (Springboard)
 Description: Very flat and simple theme based off of stock icons. Version 1.0 with only some stock icons. This is in beta.
 Author: Saj0vie <jdsajovie@gmail.com>
