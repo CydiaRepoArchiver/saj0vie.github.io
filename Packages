@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.ios6theme_1.2.6_iphoneos-arm.deb
 Size: 1998530
-MD5sum: 54891eed7debbe0ad15f3083d81da277
-SHA1: 8de1ce7ab919557ef4a93947ea63dd5ccec3d284
-SHA256: d8f7eac999db7b68826f070c8cb761ef888930572c578c7fecc34b830845d338
+MD5sum: 841ef64fb7822de6cca45d2916dd7b60
+SHA1: 1682650a3b4977a955005de00bc8e893c0ed990d
+SHA256: 649b43eae4d69a27a6800fe34ce2cce487063975c040669ecaa48de053bb4a23
 Section: Themes (Springboard)
 Description: IOS 6 stock icons for IOS 10 not tested on IOS 9, working on any retina screen device. To finish this off add ClassicDock, ClassicLabels, and StatusBarColor (color the status bar black to make it look like the IOS 6 status bar) from BigBoss and This is only in beta, and more will be added (settings icons and possibly UI changes!) UPDATE 1.2.6: FIX: My attempt to fix the clock icon did not work, screwed up other icons. If you were on 1.2.4 which was released at 5:34, get onto this version (1.2.6)
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.macossierra_1.0.1_iphoneos-arm.deb
 Size: 1036984
-MD5sum: e95965fb903b4b7550e05b97eff5bfb6
-SHA1: 3492013f68b586a1f6c86d2b90fe00d48fde1185
-SHA256: 384b12c41155ae358636f922d4d71b9123b4160cd254e7c82f9c393b1eda8de0
+MD5sum: 5646b4ec36184d0236d36e5504aca903
+SHA1: 03f13e7e9f7b853c6d4729d09478724804033ab6
+SHA256: 024ffa4d538901c6f4dbce8072dd0fa07ef6ed7f1f7bdc5be16610c69a6aea1e
 Section: Themes (Springboard)
 Description: Mac OS Sierra Icons (Very few icons at the moment, just testing)Update 1.0.1 a few more icons added. A work in progress!
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -31,10 +31,10 @@ Version: 1.2.7
 Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.solstice10_1.2.7_iphoneos-arm.deb
-Size: 2891380
-MD5sum: 94a5fce142fc5cf48e1b0cbd77035575
-SHA1: 40664ec960337aeda39a2581baa78d8ba26fcedf
-SHA256: 44b1ae249cd0f475a01074eb2ba9b9dc30f467a4cd2994fd051eaa685ac03f62
+Size: 2891376
+MD5sum: 8c59d64c6923a37420b86a312af50a03
+SHA1: b6bf69929bdf27086a5deb6640484cab50689a37
+SHA256: 48b5119a717ea20857f330046861c5cb69b7ce977497ec6832d8daa9fa036814
 Section: Themes (Springboard)
 Description: The IOS 7 theme we all loved made compatible for IOS 10. All credit to the original developer. Update 1.2.7: FIX: Fixing unthemed icons: Once I get more time, there will be new icons added!
 Author: Saj0vie <jdsajovie@gmail.com>
@@ -46,23 +46,23 @@ Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Filename: ./debs/com.saj0vie.solstice10circular_1.0.1_iphoneos-arm.deb
 Size: 2927292
-MD5sum: c432c909cd8df0f514ac4c62b58587d9
-SHA1: 403227e50d55a3923b872cfd10faeed56a1215d6
-SHA256: d7bcfdbf4a16f584957a457225dd2ba9e0dd000174ba8afc190f777260cc4695
+MD5sum: 48a475d4e639999290ef8b85abd2a384
+SHA1: 25a5e5d628e0d6c1f95973d58ca994a497866d62
+SHA256: eca2c0c07a1f8cfe39df7af0543b62cb004ecfda8fac9b75ecbe6064ce1ac428
 Section: Themes (Springboard)
 Description: The IOS 7 theme we all loved made compatible for IOS 10. All credit to the original developer. (THIS IS THE CIRCULAR ICON VERSION)
 Author: Saj0vie <jdsajovie@gmail.com>
 Name: Solstice 10 Circular
 
 Package: com.saj0vie.StockPlusSimple
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Saj0vie <jdsajovie@gmail.com>
-Filename: ./debs/com.saj0vie.stockplussimple_1.0_iphoneos-arm.deb
-Size: 1421142
-MD5sum: 370016d4ef4162626dbaf37123d30d9c
-SHA1: f79a9ff865edcf2ff81e4d6351b72a41fd785a2c
-SHA256: 173240640aa1cf2105b8eef2710f5fd37bf1d99eab75dd6c5d9190dd0e28c130
+Filename: ./debs/com.saj0vie.stockplussimple_2.0_iphoneos-arm.deb
+Size: 1406204
+MD5sum: c319feaa1ebe002aa1d8c9e4094fb14e
+SHA1: a21327efa49b7935b8178518989b5156775e5b39
+SHA256: aeb24db8eb97e87a14f0ecd0bc54991096b57a3d381e962cea6af1812a6393cc
 Section: Themes (Springboard)
 Description: N/A
 Author: Saj0vie <jdsajovie@gmail.com>
