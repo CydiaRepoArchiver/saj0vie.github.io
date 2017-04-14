@@ -1,8 +1,8 @@
 Package: com.saj0vie.StockPlusSimple
-Name: Stock+Simple
-Version: 1.1.2
+Name: Theme
+Version: 1.0
 Architecture: iphoneos-arm
-Description: Very flat and simple theme based off of stock icons. Version 1.0 with only some stock icons. This is in beta.
+Description: N/A
 Maintainer: Saj0vie <jdsajovie@gmail.com>
 Author: Saj0vie <jdsajovie@gmail.com>
 Section: Themes (Springboard)
