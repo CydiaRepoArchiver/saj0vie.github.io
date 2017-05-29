@@ -1,0 +1,14 @@
+Package: com.saj0vie.SolsticeX
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: saj0vie
+Filename: ./debs/com.saj0vie.solsticex_1.0_iphoneos-arm.deb
+Size: 2891226
+MD5sum: 3a529becf353fc48c7f49725d62dac78
+SHA1: 29df5b032d7caad5745b6ed10b4de4e5b93eff53
+SHA256: 8f5ea5dae19c1b1cba7173942b018d6416d1edea84d2da3ce141bb690b2960f5
+Section: Themes (SpringBoard)
+Description: Solstice made compatible for IOS 9-10.
+Author: saj0vie
+Name: SolsticeX
+
