@@ -1,8 +1,0 @@
-Package: com.saj0vie.IOS6Theme
-Name: IOS 6 Theme
-Version: 1.2.6
-Architecture: iphoneos-arm
-Description: IOS 6 stock icons for IOS 10 not tested on IOS 9, working on any retina screen device. To finish this off add ClassicDock, ClassicLabels, and StatusBarColor (color the status bar black to make it look like the IOS 6 status bar) from BigBoss and This is only in beta, and more will be added (settings icons and possibly UI changes!) UPDATE 1.2.6: FIX: My attempt to fix the clock icon did not work, screwed up other icons. If you were on 1.2.4 which was released at 5:34, get onto this version (1.2.6)
-Maintainer: Saj0vie <jdsajovie@gmail.com>
-Author: Saj0vie <jdsajovie@gmail.com>
-Section: Themes (Springboard)
