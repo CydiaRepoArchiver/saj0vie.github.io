@@ -1,0 +1,9 @@
+Package: com.saj0vie.IOS11CellularBarsLibstatus9
+Name: IOS 11 Cellular Bars libstatus9
+Version: 1.0
+Depends: org.thebigboss.libstatus9
+Architecture: iphoneos-arm
+Description: For those who are having issues with the initial release, try this one that uses a different type of libstatusbar.
+Maintainer: saj0vie
+Author: saj0vie
+Section: Themes (SpringBoard)
