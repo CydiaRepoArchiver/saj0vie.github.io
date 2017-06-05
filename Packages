@@ -1,14 +1,15 @@
-Package: com.saj0vie.SolsticeX
+Package: com.saj0vie.IOS10CellularBars
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: saj0vie
-Filename: ./debs/com.saj0vie.solsticex_1.0_iphoneos-arm.deb
-Size: 2891226
-MD5sum: 3a529becf353fc48c7f49725d62dac78
-SHA1: 29df5b032d7caad5745b6ed10b4de4e5b93eff53
-SHA256: 8f5ea5dae19c1b1cba7173942b018d6416d1edea84d2da3ce141bb690b2960f5
+Depends: libstatusbar
+Filename: ./debs/com.saj0vie.ios10cellularbars_1.0_iphoneos-arm.deb
+Size: 4864
+MD5sum: 0cb0ff30d9ccf4068bab4f0f3c6fb5b6
+SHA1: bb40ac93bc91d540a6ca874f3f2f1685e44e9db6
+SHA256: 39fbf14637be757a1300ecec74633f30701cf5ab3e2e83094ddf84e4aa43c514
 Section: Themes (SpringBoard)
-Description: Solstice made compatible for IOS 9-10.
+Description: The cellular bars look from the WWDC conference on 6/5/17.
 Author: saj0vie
-Name: SolsticeX
+Name: IOS 10 Cellular Bars
 

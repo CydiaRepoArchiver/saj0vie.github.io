@@ -1,0 +1,9 @@
+Package: com.saj0vie.IOS10CellularBars
+Name: IOS 10 Cellular Bars
+Version: 1.0
+Depends: libstatusbar
+Architecture: iphoneos-arm
+Description: The cellular bars look from the WWDC conference on 6/5/17.
+Maintainer: saj0vie
+Author: saj0vie
+Section: Themes (SpringBoard)
