@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: saj0vie
 Depends: libstatusbar
 Filename: ./debs/com.saj0vie.ios11cellularbars_1.0.1_iphoneos-arm.deb
-Size: 4910
-MD5sum: 143b5ae7e67f3e93d16011f019789464
-SHA1: 5b0863df2241ba0692f00fe76f733b3416579602
-SHA256: b197a287b39be7c2f8dca6899908a6e3c158f74b1539671c0525f2e16906b8a7
+Size: 4918
+MD5sum: 004283c29cbb9d540038646684e38414
+SHA1: 15536f731f4b144ed4bb53f64b56c2f24f6d1a82
+SHA256: 9ef22e028cfb8c86a5d07feea58e01ceb39af492b976e944467cdfc305f08c47
 Section: Themes (SpringBoard)
 Description: The cellular bars look from the WWDC conference on 6/5/17. Update 1.0.1: Wrong name. Also, install libstatusbar for it to function properly.
 Author: saj0vie
@@ -20,9 +20,9 @@ Maintainer: saj0vie
 Depends: org.thebigboss.libstatus9
 Filename: ./debs/com.saj0vie.ios11cellularbarslibstatus9_1.0_iphoneos-arm.deb
 Size: 4916
-MD5sum: d3a22f642740c3aaee7b88b31190620d
-SHA1: 74fa1d2e44bd3651cb7c96ca88745a1713ecb7a8
-SHA256: 6e7a047a518c5c438323db38970b75474a00490c44c3291fc9d4acbfbf4f1012
+MD5sum: 12804884a48334b05bf597943ae85806
+SHA1: 645071a94d740905bdbe04e789bf15c6dd4dd64c
+SHA256: c9247a85a485535930722a3aeca09458ba2b115f77cabe2737d18111c272aec1
 Section: Themes (SpringBoard)
 Description: For those who are having issues with the initial release, try this one that uses a different type of libstatusbar.
 Author: saj0vie
